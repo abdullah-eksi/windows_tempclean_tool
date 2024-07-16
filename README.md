@@ -1,5 +1,5 @@
 
-#Windows Temp Klasör Temizleme Scripti
+# Windows Temp Klasör Temizleme Scripti
 
 Bu Python scripti, kullanıcı ve sistem geçici dosya klasörlerini temizlemek için tasarlanmıştır. Script, belirtilen geçici klasörlerdeki dosyaları ve alt klasörleri silerek disk alanı yönetimine yardımcı olur.
 
